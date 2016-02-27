@@ -1,0 +1,13 @@
+{
+  "device": {
+    "mac_address": "YOUR_AMAZON_DASH_ID"
+  },
+  "semaphore": {
+    "api_key": "YOUR_SEMAPHORE_KEY"
+  },
+  "message": {
+    "from": "SEMAPHORE",
+    "to": "YOUR_MOBILE_NUMBER",
+    "body": "Amazon Dash rocks!"
+  }
+}
